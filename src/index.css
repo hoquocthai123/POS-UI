@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.react-multi-carousel-item {
+  width: 230px !important;
+}
